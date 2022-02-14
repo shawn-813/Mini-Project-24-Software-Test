@@ -1,2 +1,1 @@
-# Mini-Project-24-Software-Test
-In this mini-project, you’ll create a test plan, test cases, and test cycles to ensure that an application is secure enough to be deployed for a large oil and gas field services firm. You’ll think "outside the box" to identify, assess, and remediate risks that are not always technical. Have the Corporate Information Security Risk Matrix, on hand below, to work on this project.
+
